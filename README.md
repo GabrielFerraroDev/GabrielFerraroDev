@@ -11,8 +11,8 @@ I'm a passionate JavaScript developer focused on the cutting-edge world of web3 
 - **Databases:** MongoDB, MySQL
 
 ## 🔗 Connect with Me
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/gabriel-ferraro-852b69140/)
-- **Twitter:** [Your Twitter](https://twitter.com/gabrielfdeev)
+- **LinkedIn:** [Gabriel Ferraro](https://www.linkedin.com/in/gabriel-ferraro-852b69140/)
+- **Twitter:** [gabrielfdeev](https://twitter.com/gabrielfdeev)
 
 ## 🌟 Highlights of My Work
 Here are some projects that I'm particularly proud of:
