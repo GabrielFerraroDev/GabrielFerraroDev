@@ -6,7 +6,7 @@ I'm a passionate JavaScript developer focused on the cutting-edge world of web3 
 ## 🛠️ Skills
 - **Languages:** JavaScript, Python, Rust
 - **Frameworks/Libraries:** React.js, Node.js, Express.js
-- **Blockchain:** Cosmos based, Cardano, Bitcoin
+- **Blockchain:** Bitcoin, Cardano, Cosmos based
 - **Tools:** Git, Docker, VS Code
 - **Databases:** MongoDB, MySQL
 
